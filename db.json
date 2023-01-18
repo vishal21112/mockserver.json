@@ -384,5 +384,168 @@
             "size": "M",
             "id": 15
         }
-    ]
+    ],
+    "mens":[
+        {
+          "image": "https://images.meesho.com/images/products/41926322/xyhny_512.jpg",
+          "mrp": 546,
+          "price": 496,
+          "rating": 3.9,
+          "review": 11,
+          "title": "Stylish Elegant Men Shirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/20572316/60c95_512.jpg",
+          "mrp": 334,
+          "price": 234,
+          "rating": 3.9,
+          "review": 7,
+          "title": "Trendy Designer Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/41582767/3fsm7_512.jpg",
+          "mrp": 556,
+          "price": 456,
+          "rating": 4,
+          "review": 21,
+          "title": "Comfy Fashionista Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/13401562/3d2d9_512.jpg",
+          "mrp": 404,
+          "price": 306,
+          "rating": 4.1,
+          "review": 13,
+          "title": "Free Mask Fancy Latest Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/28771673/hqkug_512.jpg",
+          "mrp": 242,
+          "price": 170,
+          "rating": 3.8,
+          "review": 5,
+          "title": "Classic Fashionista Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/21139356/fcca4_512.jpg",
+          "mrp": 556,
+          "price": 456,
+          "rating": 4.2,
+          "review": 10,
+          "title": "Casual Men Vest"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/22109016/22a24_512.jpg",
+          "mrp": 766,
+          "price": 666,
+          "rating": 4.2,
+          "review": 9,
+          "title": "Fabulous Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/33882314/i8guz_512.jpg",
+          "mrp": 277,
+          "price": 194,
+          "rating": 3.5,
+          "review": 7,
+          "title": "Pack of 4 Classic Fashionista Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/3580116/1_512.jpg",
+          "mrp": 488,
+          "price": 388,
+          "rating": 3.7,
+          "review": 5,
+          "title": "New Comfy Cotton Printed Men's T-Shir"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/42233024/umkgm_512.jpg",
+          "mrp": 272,
+          "price": 191,
+          "rating": 3.8,
+          "review": 5,
+          "title": "Pretty Fabulous Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/42624649/uvb7y_512.jpg",
+          "mrp": 401,
+          "price": 301,
+          "rating": 3.5,
+          "review": 14,
+          "title": "Trendy Sensational Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/34090379/byymt_512.jpg",
+          "mrp": 397,
+          "price": 297,
+          "rating": 4.2,
+          "review": 9,
+          "title": "Pretty Fashionista Men Shirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/30701831/vamkb_512.jpg",
+          "mrp": 406,
+          "price": 306,
+          "rating": 3.8,
+          "review": 11,
+          "title": "Urbane Retro Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/40404411/0ikdy_512.jpg",
+          "mrp": 249,
+          "price": 175,
+          "rating": 3.8,
+          "review": 4,
+          "title": "Trendy Elegant Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/40124938/modkc_512.jpg",
+          "mrp": 416,
+          "price": 316,
+          "rating": 3.9,
+          "review": 5,
+          "title": "Urbane Elegant Men Shirt Fabric"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/33882317/exeup_512.jpg",
+          "mrp": 349,
+          "price": 249,
+          "rating": 4,
+          "review": 4,
+          "title": "Urbane Designer Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/42730806/pk0xw_512.jpg",
+          "mrp": 352,
+          "price": 252,
+          "rating": 3.5,
+          "review": 17,
+          "title": "Trendy Fashionable Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/41607236/zrc0m_512.jpg",
+          "mrp": 332,
+          "price": 232,
+          "rating": 3.7,
+          "review": 4,
+          "title": "Fancy Ravishing Men Shirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/28956475/7a8c8_512.jpg",
+          "mrp": 387,
+          "price": 287,
+          "rating": 3.7,
+          "review": 9,
+          "title": "Trendy Ravishing Men Tshirts"
+        },
+        {
+          "image": "https://images.meesho.com/images/products/39307094/x9iml_512.jpg",
+          "mrp": 316,
+          "price": 222,
+          "rating": 3.8,
+          "review": 5,
+          "title": "Comfy Glamorous Men Shirts"
+        }
+      ]
+
 }
