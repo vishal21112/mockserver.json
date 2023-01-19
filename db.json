@@ -1,551 +1,498 @@
 {
   "products":  [
-        {
-            "image": "https://images.meesho.com/images/products/38038484/xzpnb_512.jpg",
-            "title": "Trendy Elegant Women Dresses",
-            "mrp": 399,
-            "price": 299,
-            "rating": 4,
-            "review": 9
-        },
-        {
-            "image": "https://images.meesho.com/images/products/20543549/666a5_512.jpg",
-            "title": "Trendy Feminine Women Dresses",
-            "mrp": 692,
-            "price": 592,
-            "rating": 4.5,
-            "review": 1
-        },
-        {
-            "image": "https://images.meesho.com/images/products/68485169/kha44_512.jpg",
-            "title": "Aagyeyi Ensemble Sarees",
-            "mrp": 767,
-            "price": 667,
-            "rating": 5,
-            "review": 3
-        },
-        {
-            "image": "https://images.meesho.com/images/products/22043185/5e8c8_512.jpg",
-            "title": "Fancy Glamorous Women Jumpsuits",
-            "mrp": 482,
-            "price": 282,
-            "rating": 5,
-            "review": 1
-        },
-        {
-            "image": "https://images.meesho.com/images/products/41486612/uwtcu_512.jpg",
-            "title": "Classy Retro Women Dresses",
-            "mrp": 312,
-            "price": 219,
-            "rating": 3.9,
-            "review": 11
-        },
-        {
-            "image": "https://images.meesho.com/images/products/41671721/hesuu_512.jpg",
-            "title": "Stylish Feminine Women Dresses",
-            "mrp": 384,
-            "price": 284,
-            "rating": 4,
-            "review": 7
-        },
-        {
-            "image": "https://images.meesho.com/images/products/41692850/ggttb_512.jpg",
-            "title": "Trendy Fashionista Women Tops & Tunics",
-            "mrp": 539,
-            "price": 439,
-            "rating": 3.1,
-            "review": 1
-        },
-        {
-            "image": "https://images.meesho.com/images/products/42200696/wlzso_512.jpg",
-            "title": "Urbane Glamorous Women dress",
-            "mrp": 318,
-            "price": 223,
-            "rating": 3.8,
-            "review": 3
-        },
-        {
-            "image": "https://images.meesho.com/images/products/31875333/jod7j_512.jpg",
-            "title": "Urbane Fashionable Women Tops & Tunics",
-            "mrp": 279,
-            "price": 196,
-            "rating": 3.7,
-            "review": 16
-        },
-        {
-            "image": "https://images.meesho.com/images/products/74867438/g96re_512.jpg",
-            "title": "Pretty Ravishing Women Jumpsuits",
-            "mrp": 1762,
-            "price": 1662,
-            "rating": 4.4,
-            "review": 16
-        },
-        {
-            "image": "https://images.meesho.com/images/products/75791003/uhfln_512.jpg",
-            "title": "Urbane Feminine Women Tshirts ",
-            "mrp": 388,
-            "price": 288,
-            "rating": 5,
-            "review": 24
-        },
-        {
-            "image": "https://images.meesho.com/images/products/68479303/vgqoe_512.jpg",
-            "title": "Classy Graceful Women Tshirts ",
-            "mrp": 259,
-            "price": 182,
-            "rating": 4.7,
-            "review": 5
-        },
-        {
-            "image": "https://images.meesho.com/images/products/71563717/9tecn_512.jpg",
-            "title": "Trendy Retro Women Tshirts ",
-            "mrp": 201,
-            "price": 197,
-            "rating": 5,
-            "review": 22
-        },
-        {
-            "image": "https://images.meesho.com/images/products/19212145/fe39a_512.jpg",
-            "title": "Urbane Fashionable Women Jumpsuits",
-            "mrp": 558,
-            "price": 458,
-            "rating": 5,
-            "review": 2
-        },
-        {
-            "image": "https://images.meesho.com/images/products/41713399/k4dve_512.jpg",
-            "title": "Fancy Glamorous Women Tops & Tunics",
-            "mrp": 448,
-            "price": 348,
-            "rating": 4.3,
-            "review": 15
-        },
-        {
-            "image": "https://images.meesho.com/images/products/40122510/w7ubm_512.jpg",
-            "title": "Classic Modern Women Dresses",
-            "mrp": 348,
-            "price": 248,
-            "rating": 4,
-            "review": 8
-        },
-        {
-            "image": "https://images.meesho.com/images/products/40191150/4b0la_512.jpg",
-            "title": "Pretty Latest Women Dresses",
-            "mrp": 505,
-            "price": 405,
-            "rating": 3.9,
-            "review": 2
-        },
-        {
-            "image": "https://images.meesho.com/images/products/69421093/xh4vf_512.jpg",
-            "title": "Pretty Fabulous Women Sweatshirts",
-            "mrp": 1063,
-            "price": 945,
-            "rating": 4,
-            "review": 9
-        },
-        {
-            "image": "https://images.meesho.com/images/products/10556602/e81f7_512.jpg",
-            "title": "Classic Retro Women Jackets & Waistcoat",
-            "mrp": 1489,
-            "price": 1389,
-            "rating": 3.7,
-            "review": 4
-        },
-        {
-            "image": "https://images.meesho.com/images/products/40589552/incom_512.jpg",
-            "title": "Trendy Partywear Women Dresses",
-            "mrp": 482,
-            "price": 382,
-            "rating": 3,
-            "review": 4
-        },
-        {
-            "image": "https://images.meesho.com/images/products/71087503/5b1tu_512.jpg",
-            "title": "Comfy Feminine Women Tshirts ",
-            "mrp": 262,
-            "price": 162,
-            "rating": 4,
-            "review": 30
-        },
-        {
-            "image": "https://images.meesho.com/images/products/45666424/ygpx3_512.jpg",
-            "title": "Stylish Fashionista Women Jumpsuits",
-            "mrp": 462,
-            "price": 362,
-            "rating": 4.3,
-            "review": 7
-        },
-        {
-            "image": "https://images.meesho.com/images/products/61696039/vdky4_512.jpg",
-            "title": "Pretty Graceful Women Tshirts ",
-            "mrp": 559,
-            "price": 459,
-            "rating": 5,
-            "review": 9
-        },
-        {
-            "image": "https://images.meesho.com/images/products/42368448/gmomk_512.jpg",
-            "title": "Classic Fabulous Women Dresses",
-            "mrp": 660,
-            "price": 560,
-            "rating": 4.2,
-            "review": 5
-        },
-        {
-            "image": "https://images.meesho.com/images/products/42601250/u7nft_512.jpg",
-            "title": "Comfy Fashionable Women Dress",
-            "mrp": 515,
-            "price": 415,
-            "rating": 2.8,
-            "review": 0
-        },
-        {
-            "image": "https://images.meesho.com/images/products/42623042/jwa0l_512.jpg",
-            "title": "Classy Sensational Women Tops & Tunics",
-            "mrp": 304,
-            "price": 215,
-            "rating": 3.4,
-            "review": 21
-        },
-        {
-            "image": "https://images.meesho.com/images/products/40773957/axkh6_512.jpg",
-            "title": "Comfy Designer Women Tops & Tunics",
-            "mrp": 299,
-            "price": 210,
-            "rating": 4.1,
-            "review": 2
-        },
-        {
-            "image": "https://images.meesho.com/images/products/58547810/tlrsd_512.jpg",
-            "title": "Fashionable Modern Women Western Skirts",
-            "mrp": 398,
-            "price": 358,
-            "rating": 4.5,
-            "review": 9
-        },
-        {
-            "image": "https://images.meesho.com/images/products/71563721/bdjfc_512.jpg",
-            "title": "Classy Fashionable Women Tshirts ",
-            "mrp": 281,
-            "price": 197,
-            "rating": 4.8,
-            "review": 18
-        },
-        {
-            "image": "https://images.meesho.com/images/products/22923958/41cc4_512.jpg",
-            "title": "Comfy Fashionista Women Jeans",
-            "mrp": 531,
-            "price": 431,
-            "rating": 4.3,
-            "review": 6
-        },
-        {
-            "image": "https://images.meesho.com/images/products/64339049/53ybn_512.jpg",
-            "title": "Pretty Latest Women Tshirts ",
-            "mrp": 671,
-            "price": 571,
-            "rating": 3.8,
-            "review": 16
-        },
-        {
-            "image": "https://images.meesho.com/images/products/42388018/jtfdh_512.jpg",
-            "title": "Trendy Graceful Women Tops & Tunics",
-            "mrp": 444,
-            "price": 344,
-            "rating": 3.6,
-            "review": 11
-        },
-        {
-            "image": "https://images.meesho.com/images/products/55768312/5bi7n_512.jpg",
-            "title": "Stylish Glamorous Women Sweatshirts",
-            "mrp": 500,
-            "price": 400,
-            "rating": 3.8,
-            "review": 4
-        },
-        {
-            "image": "https://images.meesho.com/images/products/77834860/vxz65_512.jpg",
-            "title": "Comfy Partywear Women Top & Bottom Sets",
-            "mrp": 482,
-            "price": 382,
-            "rating": 2,
-            "review": 1
-        },
-        {
-            "image": "https://images.meesho.com/images/products/18664836/8bfc7_512.jpg",
-            "title": "Fancy Retro Women Dresses",
-            "mrp": 525,
-            "price": 425,
-            "rating": 5,
-            "review": 15
-        },
-        {
-            "image": "https://images.meesho.com/images/products/71532442/yanck_512.jpg",
-            "title": "Fancy Feminine Women Dresses",
-            "mrp": 446,
-            "price": 346,
-            "rating": 4.8,
-            "review": 3
-        },
-        {
-            "id": 7,
-            "title": "my Project",
-            "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
-            "price": 1499,
-            "discountPercentage": 4.15,
-            "rating": 4.25,
-            "stock": 50,
-            "brand": "Samsung",
-            "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
-            "images": "https://i.dummyjson.com/data/products/7/1.jpg"
-        },
-        {
-            "image": "https://images.coach.com/is/image/Coach/ce741_v5pol_a0?$desktopProductTile$",
-            "title": "project-1",
-            "mrp": 482,
-            "price": 282,
-            "rating": 5,
-            "review": 1,
-            "id": 8
-        },
-        {
-            "image": "https://images.coach.com/is/image/Coach/ce741_v5pol_a0?$desktopProductTile$",
-            "title": "hdbjdjnf",
-            "mrp": 482,
-            "price": 282,
-            "rating": 5,
-            "review": 1,
-            "id": 9
-        },
-        {
-            "image": "https://images.coach.com/is/image/Coach/cd759_bkbk_a0?$mobileProductTile$",
-            "title": "Mains Jocket",
-            "mrp": 482,
-            "price": 282,
-            "rating": 4.6,
-            "review": 1,
-            "categery": "men",
-            "id": 10
-        },
-        {
-            "image": "https://images.coach.com/is/image/Coach/cd759_bkbk_a0?$mobileProductTile$",
-            "title": "Mains Jocket",
-            " product_typ": "clothes",
-            "price": 282,
-            "rating": 4.6,
-            "review": 1,
-            "categery": "men",
-            "size": "L",
-            "id": 11
-        },
-        {
-            "image": "https://images.coach.com/is/image/Coach/cd754_cu3_a0?$mobileProductTile$",
-            "title": "Reversible Puffert",
-            " product_typ": "clothes",
-            "price": 582,
-            "rating": 3.6,
-            "review": 10,
-            "categery": "men",
-            "size": "XL",
-            "id": 12
-        },
-        {
-            "image": "https://images.coach.com/is/image/Coach/cd178_cbd_a0?$mobileProductTile$",
-            "title": "Shearling Trucker",
-            " product_typ": "clothes",
-            "price": 552,
-            "rating": 3.6,
-            "review": 6,
-            "categery": "men",
-            "size": "M",
-            "id": 13
-        },
-        {
-            "image": "https://images.coach.com/is/image/Coach/cf885_drd_a0?$mobileProductTile$",
-            "title": "Lunar New Year Hoodie",
-            " product_typ": "clothes",
-            "price": 522,
-            "rating": 3.9,
-            "review": 6,
-            "categery": "men",
-            "size": "L",
-            "id": 14
-        },
-        {
-            "image": "https://images.coach.com/is/image/Coach/cd196_y04_a0?$mobileProductTile$",
-            "title": "Lunar New Year Hoodie",
-            " product_typ": "clothes",
-            "price": 322,
-            "rating": 4.9,
-            "review": 6,
-            "categery": "men",
-            "size": "M",
-            "id": 15
+    {
+    "id": 1,
+    "title": "adidas",
+    "price": 5999,
+    "description": "Adidas Men's SUPERNOVA 2 Ash Grey Running Shoes",
+    "category": "shoes",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000013734213_97Wx144H_202207082032321.jpeg",
+    "rating": {
+        "rate": 3.9,
+        "count": 120
         }
-    ],
-    "mens":[
-        {
-          "image": "https://images.meesho.com/images/products/41926322/xyhny_512.jpg",
-          "mrp": 546,
-          "price": 496,
-          "rating": 3.9,
-          "review": 11,
-          "title": "Stylish Elegant Men Shirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/20572316/60c95_512.jpg",
-          "mrp": 334,
-          "price": 234,
-          "rating": 3.9,
-          "review": 7,
-          "title": "Trendy Designer Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/41582767/3fsm7_512.jpg",
-          "mrp": 556,
-          "price": 456,
-          "rating": 4,
-          "review": 21,
-          "title": "Comfy Fashionista Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/13401562/3d2d9_512.jpg",
-          "mrp": 404,
-          "price": 306,
-          "rating": 4.1,
-          "review": 13,
-          "title": "Free Mask Fancy Latest Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/28771673/hqkug_512.jpg",
-          "mrp": 242,
-          "price": 170,
-          "rating": 3.8,
-          "review": 5,
-          "title": "Classic Fashionista Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/21139356/fcca4_512.jpg",
-          "mrp": 556,
-          "price": 456,
-          "rating": 4.2,
-          "review": 10,
-          "title": "Casual Men Vest"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/22109016/22a24_512.jpg",
-          "mrp": 766,
-          "price": 666,
-          "rating": 4.2,
-          "review": 9,
-          "title": "Fabulous Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/33882314/i8guz_512.jpg",
-          "mrp": 277,
-          "price": 194,
-          "rating": 3.5,
-          "review": 7,
-          "title": "Pack of 4 Classic Fashionista Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/3580116/1_512.jpg",
-          "mrp": 488,
-          "price": 388,
-          "rating": 3.7,
-          "review": 5,
-          "title": "New Comfy Cotton Printed Men's T-Shir"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/42233024/umkgm_512.jpg",
-          "mrp": 272,
-          "price": 191,
-          "rating": 3.8,
-          "review": 5,
-          "title": "Pretty Fabulous Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/42624649/uvb7y_512.jpg",
-          "mrp": 401,
-          "price": 301,
-          "rating": 3.5,
-          "review": 14,
-          "title": "Trendy Sensational Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/34090379/byymt_512.jpg",
-          "mrp": 397,
-          "price": 297,
-          "rating": 4.2,
-          "review": 9,
-          "title": "Pretty Fashionista Men Shirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/30701831/vamkb_512.jpg",
-          "mrp": 406,
-          "price": 306,
-          "rating": 3.8,
-          "review": 11,
-          "title": "Urbane Retro Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/40404411/0ikdy_512.jpg",
-          "mrp": 249,
-          "price": 175,
-          "rating": 3.8,
-          "review": 4,
-          "title": "Trendy Elegant Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/40124938/modkc_512.jpg",
-          "mrp": 416,
-          "price": 316,
-          "rating": 3.9,
-          "review": 5,
-          "title": "Urbane Elegant Men Shirt Fabric"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/33882317/exeup_512.jpg",
-          "mrp": 349,
-          "price": 249,
-          "rating": 4,
-          "review": 4,
-          "title": "Urbane Designer Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/42730806/pk0xw_512.jpg",
-          "mrp": 352,
-          "price": 252,
-          "rating": 3.5,
-          "review": 17,
-          "title": "Trendy Fashionable Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/41607236/zrc0m_512.jpg",
-          "mrp": 332,
-          "price": 232,
-          "rating": 3.7,
-          "review": 4,
-          "title": "Fancy Ravishing Men Shirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/28956475/7a8c8_512.jpg",
-          "mrp": 387,
-          "price": 287,
-          "rating": 3.7,
-          "review": 9,
-          "title": "Trendy Ravishing Men Tshirts"
-        },
-        {
-          "image": "https://images.meesho.com/images/products/39307094/x9iml_512.jpg",
-          "mrp": 316,
-          "price": 222,
-          "rating": 3.8,
-          "review": 5,
-          "title": "Comfy Glamorous Men Shirts"
+    },
+    {
+    "id": 2,
+    "title": "Puma",
+    "price": 1799,
+    "description": "Puma Unisex Perforated Low IDP Grey Running Shoes",
+    "category": "shoes",
+    "image": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000009532618_97Wx144H_202112181057081.jpeg",
+    "rating": {
+        "rate": 4.1,
+        "count": 259
         }
-      ]
+    },
+    {
+    "id": 3,
+    "title": "Fila",
+    "price": 3399,
+    "description": "Fila Men's SOIFON Black Running Shoes",
+    "category": "shoes",
+    "image": "https://img.tatacliq.com/images/i9/97Wx144H/MP000000015665678_97Wx144H_202212102221501.jpeg",
+    "rating": {
+        "rate": 4.7,
+        "count": 500
+        }
+    },
+    {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 1599,
+    "description": "The color could be slightly different between on the screen and in practice.",
+    "category": "menwear",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+        "rate": 2.1,
+        "count": 430
+        }
+    },
+    {
+    "id": 5,
+    "title": "Gold & Silver Chain Bracelet",
+    "price": 699,
+    "description": "From our Legends Collection.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+        "rate": 4.6,
+        "count": 400
+        }
+    },
+    {
+    "id": 6,
+    "title": "Solid Gold Petite Micropave ",
+    "price": 1689,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+        "rate": 3.9,
+        "count": 70
+        }
+    },
+    {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price": 999,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+        "rate": 3,
+        "count": 400
+        }
+    },
+    {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold",
+    "price": 1099,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+        "rate": 1.9,
+        "count": 100
+        }
+    },
+    {
+    "id": 9,
+    "title": "WD 2TB Hard Drive",
+    "price": 649,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": {
+        "rate": 3.3,
+        "count": 203
+        }
+    },
+    {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB",
+    "price": 1099,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "rating": {
+        "rate": 2.9,
+        "count": 470
+        }
+    },
+    {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD",
+    "price": 1099,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": {
+        "rate": 4.8,
+        "count": 319
+        }
+    },
+    {
+    "id": 12,
+    "title": "WD 4TB Gaming Drive",
+    "price": 1149,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "rating": {
+        "rate": 4.8,
+        "count": 400
+        }
+    },
+    {
+    "id": 13,
+    "title": "Acer SB220Q Ultra-Thin",
+    "price": 599,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": {
+        "rate": 2.9,
+        "count": 250
+        }
+    },
+    {
+    "id": 14,
+    "title": "Samsung Curved Gaming Monitor ",
+    "price": 99999,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT TECHNOLOGY",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": {
+        "rate": 2.2,
+        "count": 140
+        }
+    },
+    {
+    "id": 15,
+    "title": "BIYLACLESEN Winter Coats",
+    "price": 5699,
+    "description": "The Jackets is US standard size, Please choose size as your usual wear Material",
+    "category": "womenwear",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+        "rate": 2.6,
+        "count": 235
+        }
+    },
+    {
+    "id": 16,
+    "title": "Leather Moto Biker Jacket",
+    "price": 2999,
+    "description": "100% POLYURETHANE 100% POLYESTER 75% POLYESTER 25% COTTON",
+    "category": "womenwear",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+        "rate": 2.9,
+        "count": 340
+        }
+    },
+    {
+    "id": 17,
+    "title": "Rain Jacket Women Raincoats",
+    "price": 3999,
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded",
+    "category": "womenwear",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+        "rate": 3.8,
+        "count": 679
+        }
+    },
+    {
+    "id": 18,
+    "title": "MBJ Short Sleeve Boat Neck V ",
+    "price": 9849,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported",
+    "category": "womenwear",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": {
+        "rate": 4.7,
+        "count": 130
+        }
+    },
+    {
+    "id": 19,
+    "title": "Opna Short Sleeve Moisture",
+    "price": 799,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock",
+    "category": "womenwear",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+        }
+    },
+    {
+    "id": 20,
+    "title": "DANVOUY Casual Cotton Short",
+    "price": 1299,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print",
+    "category": "womenwear",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+    },
+    {
+    "id": 21,
+    "title": "Titan",
+    "price": 2399,
+    "description": "Titan 1802NL02 Neo Analog Watch for Men",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000007753107_97Wx144H_202109172315001.jpeg",
+    "rating": {
+        "rate": 4.6,
+        "count": 1145
+        }
+    },
+    {
+    "id": 22,
+    "title": "Titan",
+    "price": 5599,
+    "description": "Titan 1805QM01 Neo Splash Analog Watch for Men",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000012845444_97Wx144H_202204151802591.jpeg",
+    "rating": {
+        "rate": 4.5,
+        "count": 1425
+        }
+    },
+    {
+    "id": 22,
+    "title": "Titan",
+    "price": 6399,
+    "description": "Titan 1805KM03 Classique Analog Watch for Men",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000013257278_97Wx144H_202205261842581.jpeg",
+    "rating": {
+        "rate": 4.5,
+        "count": 492
+        }
+    },
+    {
+    "id": 23,
+    "title": "Fossil",
+    "price": 23999,
+    "description": "Fossil FTW4071 Gen 6 Display Wellness Edition Unisex Smartwatch",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i9/97Wx144H/MP000000014863715_97Wx144H_202212212322431.jpeg",
+    "rating": {
+        "rate": 4.2,
+        "count": 2492
+        }
+    },
+    {
+    "id": 24,
+    "title": "Fastrack",
+    "price": 1999,
+    "description": "Fastrack 38067PP04 Streetwear Digital Watch for Men",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000012877542_97Wx144H_202204201452501.jpeg",
+    "rating": {
+        "rate": 4.2,
+        "count": 892
+        }
+    },
+    {
+    "id": 25,
+    "title": "Casio",
+    "price": 10799,
+    "description": "Casio A1000MG-9EF Vintage Unisex Digital Watch",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000014045460_97Wx144H_202208050310151.jpeg",
+    "rating": {
+        "rate": 4.2,
+        "count": 812
+        }
+    },
+    {
+    "id": 26,
+    "title": "Sonata",
+    "price": 1449,
+    "description": "Sonata 7143WL01 Utsav Analog Watch for Men",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000015452035_97Wx144H_202211252028481.jpeg",
+    "rating": {
+        "rate": 4.0,
+        "count": 840
+        }
+    },
+    {
+    "id": 27,
+    "title": "Fastrack",
+    "price": 4099,
+    "description": "Fastrack NP3084NM01 Analog Watch for Men",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000014056009_97Wx144H_202208060018461.jpeg",
+    "rating": {
+        "rate": 4.0,
+        "count": 540
+        }
+    },
+    {
+    "id": 28,
+    "title": "Sonata",
+    "price": 1099,
+    "description": "Sonata 8085SM01 Everyday Analog Watch for Women",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000014459756_97Wx144H_202210021721521.jpeg",
+    "rating": {
+        "rate": 3.7,
+        "count": 570
+        }
+    },
+    {
+    "id": 29,
+    "title": "Fastrack",
+    "price": 2499,
+    "description": "Fastrack 6269NM01 X Thor Analog Watch for Women",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000014056029_97Wx144H_202208060020301.jpeg",
+    "rating": {
+        "rate": 4.4,
+        "count": 1544
+        }
+    },
+    {
+    "id": 30,
+    "title": "Titan",
+    "price": 6649,
+    "description": "Titan NK95022WM01 Raga Moonlight Analog Watch for Women",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000002204586_97Wx144H_202111101916321.jpeg",
+    "rating": {
+        "rate": 4.9,
+        "count": 1575
+        }
+    },
+    {
+    "id": 31,
+    "title": "Fossil",
+    "price": 7749,
+    "description": "Fossil CE1116 Stella Analog Watch for Women",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000012255664_97Wx144H_202202241356481.jpeg",
+    "rating": {
+        "rate": 5,
+        "count": 157
+        }
+    },
+    {
+    "id": 32,
+    "title": "Fastrack",
+    "price": 1199,
+    "description": "Fastrack NM6178SL01 Denim Analog Watch for Women",
+    "category": "watch",
+    "image": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000009263668_97Wx144H_202112241732461.jpeg",
+    "rating": {
+        "rate": 4.1,
+        "count": 975
+        }
+    },
+    {
+    "id": 33,
+    "title": "U.S. Polo Assn.",
+    "price": 5549,
+    "description": "Men Black Mock Collar Full Zip Solid Jacket",
+    "category": "menwear",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000012103097_97Wx144H_202202121201531.jpeg",
+    "rating": {
+        "rate": 3.1,
+        "count": 430
+        }
+    },
+    {
+    "id": 34,
+    "title": "Arrow",
+    "price": 2999,
+    "description": "Arrow Grey Regular Fit Jacket",
+    "category": "menwear",
+    "image": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000010622194_97Wx144H_202109170204431.jpeg",
+    "rating": {
+        "rate": 3.8,
+        "count": 830
+        }
+    },
+    {
+    "id": 35,
+    "title": "Woodland",
+    "price": 4799,
+    "description": "Woodland Black Full Sleeves Regular Fit Jacket",
+    "category": "menwear",
+    "image": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000008831694_97Wx144H_202102192220101.jpeg",
+    "rating": {
+        "rate": 4.1,
+        "count": 451
+        }
+    },
+    {
+    "id": 36,
+    "title": "Jack & Jones",
+    "price": 4499,
+    "description": "Jack & Jones Beige Regular Fit Quilted Quilted Hooded Jacket",
+    "category": "menwear",
+    "image": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000010443023_97Wx144H_202108272313421.jpeg",
+    "rating": {
+        "rate": 4.3,
+        "count": 251
+        }
+    },
+    {
+    "id": 37,
+    "title": "Red Tape",
+    "price": 949,
+    "description": "Red Tape Olive Full Sleeves Sweatshirt",
+    "category": "menwear",
+    "image": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000010954539_97Wx144H_202110201121571.jpeg",
+    "rating": {
+        "rate": 4.3,
+        "count": 251
+        }
+    },
+    {
+    "id": 38,
+    "title": "Being Human",
+    "price": 749,
+    "description": "Being Human Wine Striped Sweatshirt",
+    "category": "menwear",
+    "image": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000009873446_97Wx144H_202106300043091.jpeg",
+    "rating": {
+        "rate": 4.3,
+        "count": 251
+        }
+    },
+    {
+    "id": 39,
+    "title": "Ruggers",
+    "price": 849,
+    "description": "Ruggers Light Orange Hooded Sweatshirt",
+    "category": "menwear",
+    "image": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000013859932_97Wx144H_202207211314501.jpeg",
+    "rating": {
+        "rate": 4.6,
+        "count": 341
+        }
+    },
+    {
+    "id": 40,
+    "title": "Allen Solly",
+    "price": 849,
+    "description": "Allen Solly Red Cotton Regular Fit Hooded Sweatshirt",
+    "category": "menwear",
+    "image": "https://img.tatacliq.com/images/i9/97Wx144H/MP000000015684479_97Wx144H_202212140041401.jpeg",
+    "rating": {
+        "rate": 4.6,
+        "count": 482
+        }
+    }
+]
+    
 
 }
